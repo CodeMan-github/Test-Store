@@ -1,0 +1,12 @@
+repoOwner: Create-Inc-Candidates
+learnMoreLink: https://create.xyz
+config:
+  version: 1.0.0
+projectName: Coding Assessment CodeMan-Long
+abbreviatedProjectName: codingAssessmentCodeManLong
+repoName: coding-assessment-codemanlong
+environments: []
+stack:
+  - features: []
+    kind: CodingAssessment
+    path: .
